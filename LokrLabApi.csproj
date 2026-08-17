@@ -1,0 +1,8 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <AssemblyName>LokrLabApi</AssemblyName>
+    <RootNamespace>LokrLabApi</RootNamespace>
+  </PropertyGroup>
+
+</Project>
